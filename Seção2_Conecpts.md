@@ -24,14 +24,10 @@ k delete -f pod.yml
 ##### Verificando as informações do meu cluster
 
 ```
-k 
-
-
-
-
-
-
+k config view
 ```
-```
+![alt](1.jpg)
+
+
 
 
