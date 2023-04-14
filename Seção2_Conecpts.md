@@ -28,6 +28,12 @@ k config view
 ```
 ![alt](1.jpg)
 
+###### Verificando a lista de contexts
+```
+kubectl get contexts
+```
+
+
 
 
 
